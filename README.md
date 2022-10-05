@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrk4&label=Profile%20views&color=0e75b6&style=flat" alt="mrk4" /> </p>
 
-- 🔭 I’m currently working on **creating my own company**
+- 🔭 I’m Freelance since **September 2022**
 
 - 🌱 I’m currently learning **Back-End with Laravel and MongoDB**
 
