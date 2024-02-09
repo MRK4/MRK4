@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Clément</h1>
 <h3 align="center">Front-End Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrk4&label=Profile%20views&color=0e75b6&style=flat" alt="mrk4" /> </p>
-
-- 🔭 I’m Freelance since **September 2022**
-
-- 🌱 I’m currently **looking for a Front-End Developer Job** !
-
-- 👨‍💻 I showcase all the projects that I'm proud of on my portfolio [https://www.clementpoudree.com](https://www.clementpoudree.com)
-
 - 📫 You can write me at **poudree.clement@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
