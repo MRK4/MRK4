@@ -9,7 +9,7 @@ I'm a 24-year-old French developer, passionate about building web applications.
   My go-to framework for building fast, scalable, and SEO-friendly web apps.
   
 🛠️ **Tech Stack**  
-  - Front-End: React, Next.js, Tailwind CSS and Shadcn/ui
+  - Front-End: Next.js, Tailwind CSS and Shadcn/ui
   - Back-End: Node.js, Express, Prisma
   - Other tools: Figma, WordPress
 
