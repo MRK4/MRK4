@@ -1,4 +1,6 @@
-# 👋 Hello, I'm Clément!
+<h1 align="center">Hey there 👋</h1>
+
+###
 
 I'm a 24-year-old French developer, passionate about building web applications.
 
@@ -9,10 +11,10 @@ I'm a 24-year-old French developer, passionate about building web applications.
   My go-to framework for building fast, scalable, and SEO-friendly web apps.
   
 🛠️ **Tech Stack**  
-  - Front-End: Next.js, Tailwind CSS and Shadcn/ui
+  - Front-End: Next.js, Tailwind CSS and Shadcn/ui, Zustand
   - Back-End: Node.js, Express, Prisma
   - Other tools: Figma, WordPress
 
-🎯 **Goal**: Keep improving my full-stack skills !
+🎯 **Goal**: Keep improving my full-stack skills and keep coding with fun
 
 [Feel free to connect with me](https://clementpoudree.com/) !
